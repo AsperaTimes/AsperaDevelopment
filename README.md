@@ -2,6 +2,13 @@
 
 
 
+# API 
+
+
+https://demo.ibmaspera.com/help/admin/nodes/adding_a_node_to_the_organization#toc-item-1
+https://developer.ibm.com/aspera/docs/ibm-aspera-high-speed-transfer-server-for-icp/
+https://developer.ibm.com/aspera/docs/node-api-reference/node-api-security/
+https://developer.ibm.com/aspera/docs/node-api-reference/getting-started-node-api/
 
 
 
