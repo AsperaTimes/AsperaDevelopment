@@ -1,5 +1,8 @@
-# AsperaDevelopment
+# Aspera. Development
 
+* Research API
+* Structral architecure
+* REST API
 
 
 # API 
